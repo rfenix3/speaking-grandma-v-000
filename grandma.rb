@@ -23,3 +23,5 @@ def speak_to_grandma(message)
     puts "HUH?! SPEAK UP, SONNY!"
   end
 end
+
+speak_to_grandma("")
